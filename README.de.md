@@ -10,46 +10,138 @@ Von [Shania Webstudio](https://shaniawebstudio.com), Granada (Spanien).
 
 *Echte Aufnahme aus der Engine, Prototyp-Grafik.*
 
-## Was es ist
+## Konzept
 
-Du bist ein Schutzgeist, gebunden an ein iberisches Heiligtum, der immer erwacht, wenn Iberien in eine Krise gerät. Überlebe, kämpfe und erkunde eine Welt, die von den vorrömischen Völkern der Iberischen Halbinsel (Iberer, Kelten und Keltiberer) inspiriert ist und auf dokumentierten Quellen beruht: In unseren Designdokumenten ist jedes historische Element als verlässlich, zweifelhaft, Legende oder erfunden gekennzeichnet. „Chronicles of Iberia“ ist ein vorläufiger englischer Titel; der offizielle Titel lautet „Crónicas de Iberia“. Entwickelt mit Godot 4.7 und GDScript, zuerst für den PC.
+Du bist ein Schutzgeist, gebunden an ein iberisches Heiligtum in einer Höhle. Du erwachst, sooft die Halbinsel in eine Krise gerät, und schläfst wieder ein, wenn die Krise vorbei ist. Überlebe, kämpfe und erkunde eine Open-World-Welt aus der Third-Person-Perspektive. Sie ist von den vorrömischen Völkern der Iberischen Halbinsel inspiriert: Iberer, Kelten und Keltiberer.
 
-## Für wen
+Dich führt die Stimme des Heiligtums. Gegen dich steht die Asche, die alle Völker gleichermaßen verdirbt: In diesem Spiel ist keine Kultur „die böse“. Die Stimme und die Asche sind die beiden Hälften des Gedächtnisses des Landes: Die eine singt, was war, die andere verbrennt, woran sich niemand erinnern will.
 
-- Fans von Survival-Crafting und Open-World-Action-Adventures auf dem PC.
-- Spieler mit Interesse an Geschichte und Archäologie: Iberer, Keltiberer, Phönizier und Karthager.
-- Spanischsprachige Spieler: Das Spiel wird zuerst auf Spanisch entwickelt (die englische Lokalisierung ist geplant und noch nicht angebunden).
+Der offizielle Titel lautet „Crónicas de Iberia“; „Chronicles of Iberia“ ist ein vorläufiger englischer Titel.
 
-## Was es kann
+## Die Ären
 
-- Tod im Souls-Stil: Du lässt deine „Erinnerungen“ an der Todesstelle zurück und kehrst zum zuletzt berührten Altar zurück; Altäre speichern das Spiel.
-- Überleben: Hunger, Ausdauer, ein Tag von 60 Echtzeitminuten in vier Phasen und sechs Wetterzustände; Schwierigkeit Normal oder Überleben zu Beginn wählbar.
-- Jagd, Kochen am Feuer des Heiligtums und Froschfang mit dem Netz.
-- Lebendige Tierwelt mit artspezifischem Verhalten (16 Arten: Herden, Raubtiere, Fluchttiere).
-- Aschekrieger in vier Rängen mit einem Kampfdirektor; Falcata und Caetra (Schild) können erworben und benutzt werden.
-- Eine Region von 2 x 2 km mit Gelände, Vegetation, einem Fluss mit Strömung und Brücken; ein Dorf mit NPCs im Tagesablauf; zwei begehbare Dungeons.
-- Menüs, HUD, Dialoge mit Untertiteln, drei Speicherplätze mit Sicherung, Einstellungen und Barrierefreiheitsoptionen (leicht lesbarer Text, Textgröße, weniger gleichzeitige Gegner, längeres Ausweichen, reduzierte Blitzeffekte). Menüs und Pausenknopf sind touchfähig.
+Die Geschichte wird in Ären erzählt. Wir bauen die erste ganz fertig, bevor wir die nächste beginnen.
 
-## Status
+| Ära | Zeit | Stand |
+|---|---|---|
+| 1 · Iberisch | Um 225 v. Chr., bevor Rom auf die Halbinsel kommt | In Entwicklung: Sie wird im Prototyp gespielt |
+| Punisches Zwischenspiel | Qart Hadasht (Cartagena), gegründet um 227 v. Chr. | In Planung |
+| 2 · Römisches Hispanien | Von 150 v. Chr. bis zum 1. Jahrhundert n. Chr.: Viriatus, Numantia, Las Médulas, Emerita Augusta | In Planung |
+| 3 · Westgotenreich | Ende des 7. Jahrhunderts und das Jahr 711 | In Planung |
+| 4 · Al-Andalus | 10. Jahrhundert | In Planung |
+| 5 · Kastilien des Cid | 11. Jahrhundert | In Planung |
+| 6 · Granada | 1492 | In Planung |
 
-**In Entwicklung (vor der Demo)**
+![Die sechs Ären, mit dem Wächter und der Wächterin](imagenes/11-eras-concept-art.jpg)
 
-Es gibt noch keine öffentliche Demo, keinen Trailer und keine Store-Seite. Vorhanden ist ein Prototyp mit Prototyp-Grafik; die gezeigten Szenen sind echte Aufnahmen aus der Engine.
+*KI-generierte Konzeptgrafik (Google Gemini), vom Studio überarbeitet: kein Screenshot aus dem Spiel.*
 
-## Geplant (existiert noch nicht)
+## Die Hauptfigur
 
-- Ein spielbarer vertikaler Ausschnitt von 20–30 Minuten und eine öffentliche Demo.
-- Weltkartenbildschirm (in einem nicht zusammengeführten Entwicklungszweig, nicht in der Hauptversion).
-- Arcade-Schwierigkeit (auf einem Zweig programmiert und in Prüfung; nicht in der Hauptversion).
-- Stufenaufstieg an Altären, Tagebuch-, Bestiarium- und Erfolgsbildschirme, Tastenbelegung, Touch-Steuerung auf dem Bildschirm für Bewegung und Kamera.
-- Erwerbbare Schleuder und Soliferreum, Angeln, Wandklettern, Durst und härteres Klima im Überlebensmodus.
-- Dungeon-Rätsel und Bosskämpfe, Reiten, englische Lokalisierung.
-- Inhaltsplan der Ära 1 (Siedlungen, Dungeons, benannte NPCs, Haupt- und Nebenquests) und spätere Ären (römisch, westgotisch, Al-Andalus, Kastilien, Granada) nach Ära 1; ohne Termine.
-- Plattformen jenseits des PCs (Konsolen) und eine Store-Veröffentlichung.
+Zu Beginn des Spiels wählst du, wen du weckst: **Neitin**, die Wächterin, oder **Iltir**, den Wächter. Das sind vorläufige Namen, die von der iberischen Namenkunde inspiriert sind. Du kannst sie ändern. Das Gesicht ist in allen Ären gleich: braune Augen und dunkelbraunes Haar, bei ihr mit langem Zopf, bei ihm mit Pferdeschwanz. Die Kleidung wechselt mit jeder Ära.
+
+Auf dem Rücken der linken Hand leuchtet das **Zeichen des Heiligtums**, eine goldene Zeichnung, die mit jeder Ära einen Strich dazugewinnt. Die Hauptfigur spricht nicht: In Dialogen wählst du zwischen Antworten.
+
+In der Entwicklungsversion stehen die Füße auf dem Gelände, und die Arme bewegen sich beim Gehen und Laufen. Sie schwimmt auch (Kraulen oder Hundepaddeln), treibt im Wasser, kommt am Ufer wieder heraus und schaut auf das, was in der Nähe ist. Das wird noch getestet.
+
+## Welt und echter Maßstab
+
+- **Echter Maßstab:** Im Spiel ist 1 Einheit 1 Meter. Ein automatischer Test vergleicht die Höhe von Menschen und Tieren, Bäumen und Häusern mit echten Maßen und lässt eine Abweichung von ±15 % zu.
+- **Region 1 · Edetanien und das Gebirge im Norden:** eine Region von 2 × 2 km mit Gelände, Vegetation, einem Fluss mit Strömung und Brücken. Sie hat ein iberisches Oppidum nach dem Vorbild von Edeta (Tossal de Sant Miquel, Llíria), mit NPCs, die Tagesabläufen folgen. Dazu kommen das Höhlenheiligtum und seine Krypta sowie zwei begehbare Dungeons.
+- **Regionen 2 und 3 · Keltiberien und Meseta, und die Castro-Küste:** Man erreicht sie über Wege von Region 1 aus. Sie sind in der Entwicklungsversion, in Tests und mit einfacher Grafik. Die Wege und diese Regionen nutzen das echte Relief des Digitalen Geländemodells MDT25 des IGN (CC BY 4.0).
+
+## Überleben, Sammeln, Wetter und Jahreszeiten
+
+- **Überleben:** Hunger und Ausdauer. Zu Beginn wählst du die Schwierigkeit, Normal oder Überleben.
+- **Tod im Souls-Stil:** Beim Tod lässt du deine „Erinnerungen“ an einer Stelle zurück und kehrst zum zuletzt berührten Altar zurück. Die Altäre speichern das Spiel.
+- **Jagd und Kochen:** Gekocht wird am Feuer des Heiligtums, und Frösche fängt man mit dem Netz.
+- **Sammeln** (Entwicklungsversion): Es gibt 15 Dinge zum Aufsammeln, jedes in seiner Saison. Das sind Eicheln, Brombeeren, Feigen, Oliven, Erdbeerbaumfrüchte, wilder Spargel, Safranmilchlinge, Fliegenpilze, Rosmarin, Thymian, Kermes, Stöcke, Steine, Feuerstein und Pinienzapfen.
+- **Tag und Wetter:** Ein Tag dauert 60 echte Minuten. Das Wetter hat 7 Zustände (klar, Wolken, Wind, Regen, Gewitter, Nebel und Schnee). Die Wahrscheinlichkeit jedes Zustands, Monat für Monat, stammt aus den normalen Klimawerten der AEMET (1981–2010).
+- **Jahreszeiten** (Entwicklungsversion): Der Spielkalender ändert die Zeit von Sonnenaufgang und Sonnenuntergang. Laubbäume werden im Herbst ockerfarben, und das Gras trocknet im Sommer aus.
+
+## Tierwelt
+
+- In den Spieldaten gibt es **37 Arten mit eigenem Verhalten**: Herden, Raubtiere und Fluchttiere. Es sind wilde (Hirsch, Reh, Wildschwein, Iberischer Wolf, Braunbär, Gämse, Auerochse …) und Haustiere (Rind, Schaf, Ziege, Schwein, Hund, Huhn, Esel).
+- **Heilige Tiere** werden nicht gejagt: der Iberische Luchs, der Spanische Kaiseradler und der Bartgeier.
+- Kleintiere, Fische und Insekten: Frösche, Eidechsen, Sumpfschildkröten, Kröten, Forellen, Schmetterlinge, Bienen, Libellen und Glühwürmchen.
+- Die hochwertigen Tiermodelle kommen nach und nach ins Spiel. Einige Tiere haben noch einen vorläufigen Körper.
+
+![Iberischer Steinbock, Iberischer Hase und Dachs](imagenes/10-fauna-render.jpg)
+
+*Render (Modellansicht): die Spielmodelle auf glattem Boden, ohne Animation.*
+
+## Kampf
+
+- **Aschekrieger in vier Rängen:** Gewöhnlich, Veteran, Elite und Herr der Asche. Jeder Rang hat mehr Leben und mehr Schaden als der vorherige und führt längere Kombos, Finten oder Umgehungen aus. Ein **Kampfdirektor** entscheidet, wer wann angreift.
+- **Verteidigung:** Deckung, Ablenkung, Ausweichrolle und Zielerfassung.
+- **Waffen:** Man beginnt mit den Fäusten und mit dem, was die Umgebung bietet (ein Stock, ein Stein oder eine Fackel). Die **Falcata** und die **Caetra** (der iberische Schild) bekommt man im Spiel.
+- **In Entwicklung:** ein normaler und ein starker Angriff für jede Waffenart. In den Daten gibt es schon die Schleuder, das Soliferreum, das Saunion und das Antennenschwert, aber man kann sie im Spiel noch nicht erwerben.
+
+## Historische Genauigkeit
+
+- In unseren Designdokumenten ist jedes historische Element gekennzeichnet: **verlässlich**, **zweifelhaft**, **Legende** oder **erfunden**.
+- **Antike Quellen:** Polybios, Livius, Appian, Strabon, Diodor und Plinius. **Archäologie:** Edeta, La Bastida de les Alcusses, Collado de los Jardines, Castellar, Cabezo Lucero, Aguilar de Anguita und die Castros von Coaña und Santa Tegra.
+- **Hausregeln:**
+  - Vor 1492 gibt es keine Lebensmittel amerikanischen Ursprungs.
+  - Die iberischen Häuser sind rechteckig, mit Steinsockel und Lehmdach, nie mit Satteldach aus Ziegeln.
+  - Die Kleidung folgt den Quellen und Stücken wie der Dame von Baza.
+  - Das Klima beruht auf echten Daten der AEMET.
+
+## Technik
+
+- **Godot 4.7** mit GDScript, zuerst für den PC.
+- Läuft mit dem Forward+-Renderer und mit dem Mobile-Renderer. Die Qualität hat fünf Stufen, von „sehr niedrig“ bis „Ultra“.
+- Für die Animation werden die Werkzeuge von Godot 4.7 genutzt: Zwei-Knochen-IK für die Füße, Federn für die Nebenbewegung und Blicksteuerung.
+- Eine Reihe automatischer Tests prüft bei jeder Änderung Maßstab, Wetter, Physik und Menüs.
+
+## Status und Fahrplan
+
+**In Entwicklung (vor der Demo).** Es gibt noch keine öffentliche Demo, keinen Trailer und keine Store-Seite. Vorhanden ist ein Prototyp mit Prototyp-Grafik. Die Aufnahmen unten stammen unverändert aus der Engine.
+
+Fahrplan, in dieser Reihenfolge und **ohne zugesagte Termine**:
+
+1. Ein spielbarer vertikaler Ausschnitt von 20–30 Minuten und eine öffentliche Demo.
+2. Early Access auf dem PC mit der kompletten Ära 1.
+3. Version 1.0 und Konsolen.
+4. Die weiteren Ären.
+
+Außerdem ist geplant:
+
+- Stufenaufstieg an den Altären;
+- Tagebuch-, Bestiarium- und Erfolgsbildschirme;
+- Tastenbelegung und Touch-Steuerung im Spiel;
+- Angeln und Wandklettern;
+- Dungeon-Rätsel und Bosskämpfe, mit dem Cuélebre als Boss der Ära 1;
+- Reiten;
+- die englische Lokalisierung.
+
+## Galerie
+
+| | |
+|---|---|
+| ![Krypta des Heiligtums: der Altar und der Lichtstrahl](imagenes/01-cripta-altar.jpg) | ![Krypta: die Stimme des Heiligtums vor den Malereien](imagenes/02-cripta-voz.jpg) |
+| Krypta des Heiligtums: das Lager, der Altar und der Lichtstrahl. *Echter Screenshot aus dem Spiel.* | Die Stimme des Heiligtums (vorläufige Figur) vor den Handmalereien. *Echter Screenshot aus dem Spiel.* |
+| ![Der Fluss und die Bohlenbrücke im Herbst](imagenes/03-rio-en-otono.jpg) | ![Frühling und Herbst am selben Ort](imagenes/04-estaciones-primavera-otono.jpg) |
+| Der Fluss und die Bohlenbrücke, im Herbst. *Echter Screenshot aus der Entwicklungsversion (16.11.2026).* | Derselbe Ort im Frühling und im Herbst. *Echte Screenshots aus der Entwicklungsversion (16.11.2026).* |
+| ![Ankunft an der Brücke, mit der Spieloberfläche](imagenes/05-puente-con-interfaz.jpg) | ![Kampf gegen einen Aschekrieger](imagenes/06-combate.jpg) |
+| Ankunft an der Brücke, mit der Spieloberfläche. *Echter Screenshot aus dem Spiel.* | Kampf gegen einen Aschekrieger, mit den Fäusten. *Echter Screenshot aus dem Spiel (Prototyp-Grafik).* |
+| ![Hauptmenü](imagenes/07-menu-principal.jpg) | ![Barrierefreiheitsoptionen](imagenes/08-accesibilidad.jpg) |
+| Hauptmenü. *Echte Oberfläche, mit einem Testspielstand.* | Barrierefreiheitsoptionen: leicht lesbarer Text, weniger Blitzeffekte, weniger gleichzeitige Gegner und längeres Zeitfenster zum Ausweichen. *Echte Oberfläche.* |
+| ![Urke, Bilos und ein Aschekrieger](imagenes/09-personajes-render.jpg) | ![Iberischer Steinbock, Iberischer Hase und Dachs](imagenes/10-fauna-render.jpg) |
+| Urke der Schmied, Bilos die Töpferin und ein Aschekrieger. *Render (Modellansicht, mit der Schattierung des Spiels).* | Iberische Tierwelt. *Render (Modellansicht).* |
+
+Die echten Screenshots wurden auf einem HP Omen (GTX 1050 Ti) in hoher oder Ultra-Qualität ohne Nachbearbeitung gemacht. Bei einigen Aufnahmen ist die Kamera fest, bei anderen ist es die Kamera des Spielers. Die Häuser des Dorfes und einige Tiere sind noch Prototyp-Grafik.
 
 ## Wie KI eingesetzt wird
 
-Wir sagen es, wie es ist. KI wird für Konzeptzeichnungen (Google Gemini), aus freigegebenen Konzepten erzeugte 3D-Basismodelle, Stimmen und Musik (Google Lyria) sowie zur Unterstützung bei Code, Recherche und Design eingesetzt. Jedes KI-Element wird von einem Menschen geprüft und fertiggestellt, bevor es ins Spiel kommt. Konzeptbilder tragen einen KI-Hinweis, und die Credits des Spiels enthalten einen KI-Vermerk.
+Wir sagen es, wie es ist. KI wird eingesetzt für:
+
+- die Konzeptzeichnungen (Google Gemini);
+- die 3D-Basismodelle, erzeugt aus freigegebenen Konzepten;
+- die Stimmen und die Musik (Google Lyria);
+- die Unterstützung bei Code, Recherche und Design.
+
+Jedes KI-Element wird von einem Menschen geprüft und fertiggestellt, bevor es ins Spiel kommt. Konzeptbilder tragen einen KI-Hinweis, und die Credits des Spiels enthalten einen KI-Vermerk.
 
 ## Über dieses Repository
 
