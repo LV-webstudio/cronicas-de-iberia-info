@@ -1,8 +1,10 @@
-[English](README.md) · [Español](README.es.md) · **Français** · [Deutsch](README.de.md) · [Português](README.pt.md)
-
-# Crónicas de Iberia (Chronicles of Iberia)
+# Crónicas de Iberia (Chronicles of Iberia) — jeu de survie en monde ouvert dans l'Ibérie préromaine
 
 > Une aventure de survie en monde ouvert à la troisième personne, dans l’Ibérie préromaine, vers 225 av. J.-C. Avant la démo, en développement.
+
+Par [Shania Webstudio](https://shaniawebstudio.com), Granada (Espagne).
+
+[English](README.md) · [Español](README.es.md) · **Français** · [Deutsch](README.de.md) · [Português](README.pt.md)
 
 ![La crypte du sanctuaire, dans le prototype du jeu](assets/banner.jpg)
 
