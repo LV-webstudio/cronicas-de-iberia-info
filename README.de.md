@@ -2,7 +2,7 @@
 
 > Ein Open-World-Survival-Abenteuer aus der Third-Person-Perspektive im vorrömischen Iberien um 225 v. Chr. Vor der Demo, in Entwicklung.
 
-> **Hinweis: Das Spiel ist in Entwicklung.** Crónicas de Iberia ist noch nicht fertig und nicht im Handel. Was hier beschrieben wird, sind Designziele, die sich ändern oder wegfallen können. Die Bilder sind Arbeitsstände und können sich noch ändern; mit KI erstellte Bilder tragen einen Vermerk und zeigen nicht das endgültige Aussehen des Spiels. *Aktualisiert am 25.11.2026.*
+> **Hinweis: Das Spiel ist in Entwicklung.** Crónicas de Iberia ist noch nicht fertig und nicht im Handel. Was hier beschrieben wird, sind Designziele, die sich ändern oder wegfallen können. Die Bilder sind Arbeitsstände und können sich noch ändern. *Aktualisiert am 25.11.2026.*
 
 Von [Shania Webstudio](https://shaniawebstudio.com), Granada (Spanien).
 
@@ -34,9 +34,9 @@ Die Geschichte wird in Ären erzählt. Wir bauen die erste ganz fertig, bevor wi
 | 5 · Kastilien des Cid | 11. Jahrhundert | In Planung |
 | 6 · Granada | 1492 | In Planung |
 
-![Die sechs Ären, mit dem Wächter und der Wächterin (KI-generierte Konzeptzeichnung)](imagenes/11-eras-concept-art.jpg)
+![Die sechs Ären, mit dem Wächter und der Wächterin (Konzeptzeichnung)](imagenes/11-eras-concept-art.jpg)
 
-*KI-generierte Konzeptgrafik (Google Gemini), vom Studio überarbeitet: kein Screenshot aus dem Spiel.*
+*Konzeptzeichnung der sechs Ären.*
 
 ## Die Hauptfigur
 
@@ -50,16 +50,16 @@ In der Entwicklungsversion stehen die Füße auf dem Gelände, und die Arme bewe
 
 Die iberischen Dörfer bekommen neue Figuren, in 3D modelliert, jede mit eigener Kleidung, eigener Frisur und eigenem Schmuck. Sie werden noch getestet.
 
-![Drei Bewohnerinnen der iberischen Dörfer, von vorn (Render KI-generierter 3D-Modelle)](imagenes/12-personajes-aldeas-iberas-render.jpg)
+![Drei Bewohnerinnen der iberischen Dörfer, von vorn (Render der 3D-Modelle)](imagenes/12-personajes-aldeas-iberas-render.jpg)
 
-*Render (Modellansicht, ohne Animation) von KI-generierten 3D-Modellen auf Grundlage von Konzepten aus Google Gemini.*
+*Render (Modellansicht, ohne Animation) der 3D-Modelle.*
 
 ## Welt und echter Maßstab
 
 - **Echter Maßstab:** Im Spiel ist 1 Einheit 1 Meter. Ein automatischer Test vergleicht die Höhe von Menschen und Tieren, Bäumen und Häusern mit echten Maßen und lässt eine Abweichung von ±15 % zu.
 - **Region 1 · Edetanien und das Gebirge im Norden:** eine Region von 2 × 2 km mit Gelände, Vegetation, einem Fluss mit Strömung und Brücken. Sie hat ein iberisches Oppidum nach dem Vorbild von Edeta (Tossal de Sant Miquel, Llíria), mit NPCs, die Tagesabläufen folgen. Dazu kommen das Höhlenheiligtum und seine Krypta sowie zwei begehbare Dungeons.
 - **Regionen 2 und 3 · Keltiberien und Meseta, und die Castro-Küste:** Man erreicht sie über Wege von Region 1 aus. Sie sind in der Entwicklungsversion, in Tests und mit einfacher Grafik. Die Wege und diese Regionen haben ein gestaltetes Relief, das auf Messungen (Gefälle und Rauheit) des MDT25 des spanischen IGN beruht.
-- **Felsen:** Die Landschaft erhält Felsen und Kalksteinaufschlüsse, die mit KI modelliert werden.
+- **Felsen:** Die Landschaft erhält Felsen und Kalksteinaufschlüsse.
 
 ## Überleben, Sammeln, Wetter und Jahreszeiten
 
@@ -77,9 +77,9 @@ Die iberischen Dörfer bekommen neue Figuren, in 3D modelliert, jede mit eigener
 - Kleintiere, Fische und Insekten: Frösche, Eidechsen, Sumpfschildkröten, Kröten, Forellen, Schmetterlinge, Bienen, Libellen und Glühwürmchen.
 - Die hochwertigen Tiermodelle kommen nach und nach ins Spiel. Einige Tiere haben noch einen vorläufigen Körper.
 
-![Iberischer Steinbock, Iberischer Hase und Dachs (Render KI-generierter 3D-Modelle)](imagenes/10-fauna-render.jpg)
+![Iberischer Steinbock, Iberischer Hase und Dachs (Render der 3D-Modelle)](imagenes/10-fauna-render.jpg)
 
-*Render (Modellansicht) KI-generierter 3D-Modelle: die Spielmodelle auf glattem Boden, ohne Animation.*
+*Render (Modellansicht) der 3D-Modelle: die Spielmodelle auf glattem Boden, ohne Animation.*
 
 ## Kampf
 
@@ -138,37 +138,26 @@ Außerdem ist geplant:
 | Ankunft an der Brücke, mit der Spieloberfläche. *Echter Screenshot aus dem Spiel.* | Kampf gegen einen Aschekrieger, mit den Fäusten. *Echter Screenshot aus dem Spiel (Prototyp-Grafik).* |
 | ![Hauptmenü](imagenes/07-menu-principal.jpg) | ![Barrierefreiheitsoptionen](imagenes/08-accesibilidad.jpg) |
 | Hauptmenü. *Echte Oberfläche, mit einem Testspielstand.* | Barrierefreiheitsoptionen: leicht lesbarer Text, weniger Blitzeffekte, weniger gleichzeitige Gegner und längeres Zeitfenster zum Ausweichen. *Echte Oberfläche.* |
-| ![Urke, Bilos und ein Aschekrieger (Render KI-generierter 3D-Modelle)](imagenes/09-personajes-render.jpg) | ![Iberischer Steinbock, Iberischer Hase und Dachs (Render KI-generierter 3D-Modelle)](imagenes/10-fauna-render.jpg) |
-| Urke der Schmied, Bilos die Töpferin und ein Aschekrieger. *Render (Modellansicht, mit der Schattierung des Spiels) KI-generierter 3D-Modelle.* | Iberische Tierwelt. *Render (Modellansicht) KI-generierter 3D-Modelle.* |
-| ![Drei Bewohnerinnen der iberischen Dörfer, von vorn (Render KI-generierter 3D-Modelle)](imagenes/12-personajes-aldeas-iberas-render.jpg) | ![Die sechs Ären, mit dem Wächter und der Wächterin (KI-generierte Konzeptzeichnung)](imagenes/11-eras-concept-art.jpg) |
-| Drei Bewohnerinnen der iberischen Dörfer, von vorn. *Render (Modellansicht) von KI-generierten 3D-Modellen.* | Die sechs Ären, mit dem Wächter und der Wächterin. *KI-generierte Konzeptzeichnung (Google Gemini).* |
+| ![Urke, Bilos und ein Aschekrieger (Render der 3D-Modelle)](imagenes/09-personajes-render.jpg) | ![Iberischer Steinbock, Iberischer Hase und Dachs (Render der 3D-Modelle)](imagenes/10-fauna-render.jpg) |
+| Urke der Schmied, Bilos die Töpferin und ein Aschekrieger. *Render (Modellansicht, mit der Schattierung des Spiels) der 3D-Modelle.* | Iberische Tierwelt. *Render (Modellansicht) der 3D-Modelle.* |
+| ![Drei Bewohnerinnen der iberischen Dörfer, von vorn (Render der 3D-Modelle)](imagenes/12-personajes-aldeas-iberas-render.jpg) | ![Die sechs Ären, mit dem Wächter und der Wächterin (Konzeptzeichnung)](imagenes/11-eras-concept-art.jpg) |
+| Drei Bewohnerinnen der iberischen Dörfer, von vorn. *Render (Modellansicht) der 3D-Modelle.* | Die sechs Ären, mit dem Wächter und der Wächterin. *Konzeptzeichnung.* |
 
 Die echten Screenshots wurden auf einem HP Omen (GTX 1050 Ti) in hoher oder Ultra-Qualität ohne Nachbearbeitung gemacht. Bei einigen Aufnahmen ist die Kamera fest, bei anderen ist es die Kamera des Spielers. Die Häuser des Dorfes und einige Tiere sind noch Prototyp-Grafik.
-
-**Mit KI erstellte Bilder.** Sie tragen in einer Ecke den Vermerk „Imagen generada con IA · AI-generated image“. Das sind die Konzeptzeichnung der Ären (Google Gemini) und die Renders von Figuren und Tieren, die auf KI-generierten 3D-Modellen (TripoSG) beruhen. Die Modelle der drei Bewohnerinnen gehen auf Konzepte aus Google Gemini zurück.
-
-## Wie KI eingesetzt wird
-
-Wir sagen es, wie es ist. KI wird eingesetzt für:
-
-- die Konzeptzeichnungen (Google Gemini);
-- die 3D-Basismodelle, erzeugt aus freigegebenen Konzepten;
-- die Musik (Google Lyria) und die Stimmen (Chirp 3 HD, von Google Cloud Text-to-Speech);
-- die Unterstützung bei Code, Recherche und Design.
-
-Jedes KI-Element wird von einem Menschen geprüft und fertiggestellt, bevor es ins Spiel kommt. Mit KI erstellte Bilder tragen einen sichtbaren Vermerk, und die Credits des Spiels enthalten einen KI-Hinweis.
 
 ## Credits und Lizenzen
 
 - **Godot Engine**: die Spiel-Engine (MIT-Lizenz).
 - **Blender**: Nachbearbeitung und Rendern der Modelle (GPL-Lizenz; die mit Blender erzeugten Modelle und Bilder gehören uns).
-- **TripoSG** von VAST-AI: aus den Konzepten erzeugte 3D-Modelle (MIT-Lizenz).
-- **BiRefNet**: Freistellen der Konzepte vor dem Erzeugen des Modells (MIT-Lizenz).
-- **scikit-image**: Extraktion der Modelloberfläche (BSD-3-Lizenz).
-- **Google Gemini** von Google: Konzeptzeichnungen, genutzt gemäß den Nutzungsbedingungen von Google.
-- **Google Lyria** und **Chirp 3 HD** (Google Cloud Text-to-Speech) von Google: mit KI erzeugte Musik und Stimmen, genutzt gemäß den Bedingungen von Google Cloud.
+- **TripoSG** von VAST-AI (MIT-Lizenz).
+- **BiRefNet** (MIT-Lizenz).
+- **scikit-image** (BSD-3-Lizenz).
+- **Google Gemini** von Google, genutzt gemäß den Nutzungsbedingungen von Google.
+- **Google Lyria** und **Chirp 3 HD** (Google Cloud Text-to-Speech) von Google, genutzt gemäß den Bedingungen von Google Cloud.
 - **IGN (Instituto Geográfico Nacional, Spanien)**: Obra derivada de MDT25-cob2 2015-2021 CC-BY 4.0 [scne.es](https://www.scne.es) (abgeleitetes Werk; Lizenz: https://creativecommons.org/licenses/by/4.0/).
 - **AEMET** (Staatliche Meteorologische Agentur Spaniens): klimatologische Normalwerte 1981-2010. Quelle: AEMET.
+
+Die Konzeptzeichnung der Ären wurde mit KI-Werkzeugen erstellt.
 
 ## Über dieses Repository
 
