@@ -2,6 +2,8 @@
 
 > Une aventure de survie en monde ouvert à la troisième personne, dans l’Ibérie préromaine, vers 225 av. J.-C. Avant la démo, en développement.
 
+> **Avertissement : jeu en développement.** Crónicas de Iberia n’est pas encore terminé. Les images de cette page sont des images de travail et peuvent changer. *Mis à jour le 25/11/2026.*
+
 Par [Shania Webstudio](https://shaniawebstudio.com), Granada (Espagne).
 
 [English](README.md) · [Español](README.es.md) · **Français** · [Deutsch](README.de.md) · [Português](README.pt.md)
@@ -44,11 +46,20 @@ Sur le dos de la main gauche brille la **marque du sanctuaire**, un dessin doré
 
 Dans la version de développement, les pieds s’appuient sur le terrain et les bras bougent à la marche et à la course. Elle nage aussi (en crawl ou comme un chien), flotte et sort par la rive, et regarde ce qui est proche. Cela est en cours de test.
 
+## Les habitants des villages
+
+Les villages ibères accueillent de nouveaux personnages, modélisés en 3D, chacun avec ses vêtements, sa coiffure et ses parures. Ils sont encore en test.
+
+![Trois villageoises ibères, de face](imagenes/12-personajes-aldeas-iberas-render.jpg)
+
+*Rendu (vue de modèle, sans animation) de modèles 3D générés par IA à partir de concepts réalisés avec Google Gemini.*
+
 ## Monde et échelle réelle
 
 - **Échelle réelle :** dans le jeu, 1 unité vaut 1 mètre. Un test automatique compare la hauteur des personnes et des animaux, des arbres et des maisons avec des mesures réelles, et admet une marge de ±15 %.
 - **Région 1 · Édétanie et montagne du nord :** une région de 2 × 2 km avec relief, végétation, une rivière à courant et des ponts. Elle comprend un oppidum ibère pris pour modèle d’Edeta (Tossal de Sant Miquel, Llíria), avec des PNJ qui suivent des routines quotidiennes. Elle comprend aussi la grotte-sanctuaire et sa crypte, et deux donjons visitables.
 - **Régions 2 et 3 · Celtibérie et Meseta, et côte des castros :** on y accède par des chemins depuis la région 1. Elles sont dans la version de développement, en test et avec un art simple. Les chemins et ces régions utilisent le relief réel du modèle numérique de terrain MDT25 de l’IGN (CC BY 4.0).
+- **Roches :** le paysage reçoit des rochers et des affleurements calcaires modélisés avec l’IA.
 
 ## Survie, cueillette, climat et saisons
 
@@ -129,8 +140,12 @@ Sont aussi prévus :
 | Menu principal. *Interface réelle, avec une partie de test.* | Options d’accessibilité : lecture facile, réduction des flashs, moins d’ennemis à la fois et fenêtre de déviation plus longue. *Interface réelle.* |
 | ![Urke, Bilos et un guerrier de cendre](imagenes/09-personajes-render.jpg) | ![Bouquetin, lièvre ibérique et blaireau](imagenes/10-fauna-render.jpg) |
 | Urke le forgeron, Bilos la potière et un guerrier de cendre. *Rendu (vue de modèle, avec l’ombrage du jeu).* | Faune ibérique. *Rendu (vue de modèle).* |
+| ![Trois villageoises ibères, de face](imagenes/12-personajes-aldeas-iberas-render.jpg) | ![Les six ères, avec le Gardien et la Gardienne](imagenes/11-eras-concept-art.jpg) |
+| Trois villageoises ibères, de face. *Rendu (vue de modèle) de modèles 3D générés par IA.* | Les six ères, avec le Gardien et la Gardienne. *Illustration conceptuelle générée par IA (Google Gemini).* |
 
 Les captures réelles ont été faites sur un HP Omen (GTX 1050 Ti) en qualité haute ou ultra, sans retouche. Sur certaines prises, la caméra est fixe ; sur d’autres, c’est celle du joueur. Les maisons du village et certains animaux sont encore en art de prototype.
+
+**Images faites avec l’IA.** Elles portent dans un coin la mention « Imagen generada con IA · AI-generated image ». Ce sont l’illustration conceptuelle des ères (Google Gemini) et les rendus des personnages et de la faune, réalisés à partir de modèles 3D générés par IA (TripoSG). Les modèles des trois villageoises partent de concepts réalisés avec Google Gemini.
 
 ## Comment l’IA est utilisée
 
@@ -141,7 +156,17 @@ Nous le disons tel quel. L’IA sert à :
 - les voix et la musique (Google Lyria) ;
 - l’aide au code, à la recherche et à la conception.
 
-Chaque élément créé avec l’IA est relu et finalisé par un humain avant d’entrer dans le jeu. Les images de concept portent une mention IA et les crédits du jeu un avis IA.
+Chaque élément créé avec l’IA est relu et finalisé par un humain avant d’entrer dans le jeu. Les images faites avec l’IA portent une mention visible et les crédits du jeu un avis IA.
+
+## Crédits et licences
+
+- **Godot Engine** : le moteur du jeu (licence MIT).
+- **Blender** : finition et rendu des modèles (licence GPL ; les modèles et les images produits avec Blender nous appartiennent).
+- **TripoSG**, de VAST-AI : maillages 3D générés à partir des concepts (licence MIT).
+- **BiRefNet** : détourage du fond des concepts avant de générer le maillage (licence MIT).
+- **scikit-image** : extraction de la surface des maillages (licence BSD-3).
+- **Google Gemini** : illustrations conceptuelles.
+- **IGN** : relief du modèle numérique de terrain MDT25 (CC BY 4.0).
 
 ## À propos de ce dépôt
 

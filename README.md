@@ -2,6 +2,8 @@
 
 > A third-person open-world survival adventure set in pre-Roman Iberia, around 225 BC. Pre-demo, in development.
 
+> **Notice: game in development.** Crónicas de Iberia is not finished yet. The images on this page are work in progress and may change. *Updated on 25 November 2026.*
+
 By [Shania Webstudio](https://shaniawebstudio.com), Granada (Spain).
 
 **English** · [Español](README.es.md) · [Français](README.fr.md) · [Deutsch](README.de.md) · [Português](README.pt.md)
@@ -44,11 +46,20 @@ On the back of the left hand glows the **sanctuary mark**, a golden design that 
 
 In the development version, the feet rest on the terrain and the arms move when walking and running. The protagonist also swims (front crawl or doggy paddle), floats and climbs out at the bank, and looks at what is nearby. This is being tested.
 
+## The people of the villages
+
+The Iberian villages are receiving new characters, modelled in 3D, each with their own clothes, hairstyle and ornaments. They are still being tested.
+
+![Three women from the Iberian villages, front view](imagenes/12-personajes-aldeas-iberas-render.jpg)
+
+*Render (model view, without animation) of AI-generated 3D models based on concepts made with Google Gemini.*
+
 ## World and real scale
 
 - **Real scale:** in the game, 1 unit is 1 metre. An automated test compares the height of people and animals, trees and houses with real measurements, and allows a margin of ±15%.
 - **Region 1 · Edetania and the northern mountains:** a 2 × 2 km region with terrain, vegetation, a river with a current and bridges. It has an Iberian oppidum modelled on Edeta (Tossal de Sant Miquel, Llíria), with NPCs that follow daily routines. It also has the cave sanctuary and its crypt, and two visitable dungeons.
 - **Regions 2 and 3 · Celtiberia and the Meseta, and the Castro Coast (hillfort coast):** you reach them by paths from region 1. They are in the development version, in testing and with simple art. The paths and these regions use the real relief of the MDT25 Digital Terrain Model of the IGN (CC BY 4.0).
+- **Rocks:** the landscape is receiving limestone rocks and outcrops modelled with AI.
 
 ## Survival, gathering, weather and seasons
 
@@ -129,8 +140,12 @@ Also planned:
 | Main menu. *Real interface, with a test save.* | Accessibility options: easy-read text, reduced flashes, fewer simultaneous enemies and a longer parry window. *Real interface.* |
 | ![Urke, Bilos and an Ash warrior](imagenes/09-personajes-render.jpg) | ![Ibex, Iberian hare and badger](imagenes/10-fauna-render.jpg) |
 | Urke the smith, Bilos the potter and an Ash warrior. *Render (model view, with the game's shading).* | Iberian wildlife. *Render (model view).* |
+| ![Three women from the Iberian villages, front view](imagenes/12-personajes-aldeas-iberas-render.jpg) | ![The six eras, with the male and female Guardian](imagenes/11-eras-concept-art.jpg) |
+| Three women from the Iberian villages, front view. *Render (model view) of AI-generated 3D models.* | The six eras, with the male and female Guardian. *AI-generated concept art (Google Gemini).* |
 
 The real screenshots were taken on an HP Omen (GTX 1050 Ti) at high or ultra quality, without retouching. In some shots the camera is fixed and in others it is the player's. The village houses and some animals are still prototype art.
+
+**AI-made images.** They carry the mark "Imagen generada con IA · AI-generated image" in a corner. They are the concept art of the eras (Google Gemini) and the renders of characters and wildlife, made from AI-generated 3D models (TripoSG). The models of the three women are based on concepts made with Google Gemini.
 
 ## How we use AI
 
@@ -141,7 +156,17 @@ We say it as it is. AI is used for:
 - voices and music (Google Lyria);
 - support with code, research and design.
 
-Every AI-made piece is reviewed and finished by a human before it goes into the game. Concept images carry an AI label and the game credits carry an AI notice.
+Every AI-made piece is reviewed and finished by a human before it goes into the game. AI-made images carry a visible mark and the game credits carry an AI notice.
+
+## Credits and licences
+
+- **Godot Engine**: the game engine (MIT licence).
+- **Blender**: finishing and rendering of the models (GPL licence; the models and images produced with Blender are our own).
+- **TripoSG**, by VAST-AI: 3D meshes generated from the concepts (MIT licence).
+- **BiRefNet**: removal of the concept background before generating the mesh (MIT licence).
+- **scikit-image**: extraction of the mesh surface (BSD-3 licence).
+- **Google Gemini**: concept art.
+- **IGN**: relief from the MDT25 Digital Terrain Model (CC BY 4.0).
 
 ## About this repository
 

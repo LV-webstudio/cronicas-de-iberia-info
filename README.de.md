@@ -2,6 +2,8 @@
 
 > Ein Open-World-Survival-Abenteuer aus der Third-Person-Perspektive im vorrömischen Iberien um 225 v. Chr. Vor der Demo, in Entwicklung.
 
+> **Hinweis: Das Spiel ist in Entwicklung.** Crónicas de Iberia ist noch nicht fertig. Die Bilder auf dieser Seite sind Arbeitsstände und können sich noch ändern. *Aktualisiert am 25.11.2026.*
+
 Von [Shania Webstudio](https://shaniawebstudio.com), Granada (Spanien).
 
 [English](README.md) · [Español](README.es.md) · [Français](README.fr.md) · **Deutsch** · [Português](README.pt.md)
@@ -44,11 +46,20 @@ Auf dem Rücken der linken Hand leuchtet das **Zeichen des Heiligtums**, eine go
 
 In der Entwicklungsversion stehen die Füße auf dem Gelände, und die Arme bewegen sich beim Gehen und Laufen. Sie schwimmt auch (Kraulen oder Hundepaddeln), treibt im Wasser, kommt am Ufer wieder heraus und schaut auf das, was in der Nähe ist. Das wird noch getestet.
 
+## Die Menschen in den Dörfern
+
+Die iberischen Dörfer bekommen neue Figuren, in 3D modelliert, jede mit eigener Kleidung, eigener Frisur und eigenem Schmuck. Sie werden noch getestet.
+
+![Drei Bewohnerinnen der iberischen Dörfer, von vorn](imagenes/12-personajes-aldeas-iberas-render.jpg)
+
+*Render (Modellansicht, ohne Animation) von KI-generierten 3D-Modellen auf Grundlage von Konzepten aus Google Gemini.*
+
 ## Welt und echter Maßstab
 
 - **Echter Maßstab:** Im Spiel ist 1 Einheit 1 Meter. Ein automatischer Test vergleicht die Höhe von Menschen und Tieren, Bäumen und Häusern mit echten Maßen und lässt eine Abweichung von ±15 % zu.
 - **Region 1 · Edetanien und das Gebirge im Norden:** eine Region von 2 × 2 km mit Gelände, Vegetation, einem Fluss mit Strömung und Brücken. Sie hat ein iberisches Oppidum nach dem Vorbild von Edeta (Tossal de Sant Miquel, Llíria), mit NPCs, die Tagesabläufen folgen. Dazu kommen das Höhlenheiligtum und seine Krypta sowie zwei begehbare Dungeons.
 - **Regionen 2 und 3 · Keltiberien und Meseta, und die Castro-Küste:** Man erreicht sie über Wege von Region 1 aus. Sie sind in der Entwicklungsversion, in Tests und mit einfacher Grafik. Die Wege und diese Regionen nutzen das echte Relief des Digitalen Geländemodells MDT25 des IGN (CC BY 4.0).
+- **Felsen:** Die Landschaft erhält Felsen und Kalksteinaufschlüsse, die mit KI modelliert werden.
 
 ## Überleben, Sammeln, Wetter und Jahreszeiten
 
@@ -129,8 +140,12 @@ Außerdem ist geplant:
 | Hauptmenü. *Echte Oberfläche, mit einem Testspielstand.* | Barrierefreiheitsoptionen: leicht lesbarer Text, weniger Blitzeffekte, weniger gleichzeitige Gegner und längeres Zeitfenster zum Ausweichen. *Echte Oberfläche.* |
 | ![Urke, Bilos und ein Aschekrieger](imagenes/09-personajes-render.jpg) | ![Iberischer Steinbock, Iberischer Hase und Dachs](imagenes/10-fauna-render.jpg) |
 | Urke der Schmied, Bilos die Töpferin und ein Aschekrieger. *Render (Modellansicht, mit der Schattierung des Spiels).* | Iberische Tierwelt. *Render (Modellansicht).* |
+| ![Drei Bewohnerinnen der iberischen Dörfer, von vorn](imagenes/12-personajes-aldeas-iberas-render.jpg) | ![Die sechs Ären, mit dem Wächter und der Wächterin](imagenes/11-eras-concept-art.jpg) |
+| Drei Bewohnerinnen der iberischen Dörfer, von vorn. *Render (Modellansicht) von KI-generierten 3D-Modellen.* | Die sechs Ären, mit dem Wächter und der Wächterin. *KI-generierte Konzeptzeichnung (Google Gemini).* |
 
 Die echten Screenshots wurden auf einem HP Omen (GTX 1050 Ti) in hoher oder Ultra-Qualität ohne Nachbearbeitung gemacht. Bei einigen Aufnahmen ist die Kamera fest, bei anderen ist es die Kamera des Spielers. Die Häuser des Dorfes und einige Tiere sind noch Prototyp-Grafik.
+
+**Mit KI erstellte Bilder.** Sie tragen in einer Ecke den Vermerk „Imagen generada con IA · AI-generated image“. Das sind die Konzeptzeichnung der Ären (Google Gemini) und die Renders von Figuren und Tieren, die auf KI-generierten 3D-Modellen (TripoSG) beruhen. Die Modelle der drei Bewohnerinnen gehen auf Konzepte aus Google Gemini zurück.
 
 ## Wie KI eingesetzt wird
 
@@ -141,7 +156,17 @@ Wir sagen es, wie es ist. KI wird eingesetzt für:
 - die Stimmen und die Musik (Google Lyria);
 - die Unterstützung bei Code, Recherche und Design.
 
-Jedes KI-Element wird von einem Menschen geprüft und fertiggestellt, bevor es ins Spiel kommt. Konzeptbilder tragen einen KI-Hinweis, und die Credits des Spiels enthalten einen KI-Vermerk.
+Jedes KI-Element wird von einem Menschen geprüft und fertiggestellt, bevor es ins Spiel kommt. Mit KI erstellte Bilder tragen einen sichtbaren Vermerk, und die Credits des Spiels enthalten einen KI-Hinweis.
+
+## Credits und Lizenzen
+
+- **Godot Engine**: die Spiel-Engine (MIT-Lizenz).
+- **Blender**: Nachbearbeitung und Rendern der Modelle (GPL-Lizenz; die mit Blender erzeugten Modelle und Bilder gehören uns).
+- **TripoSG** von VAST-AI: aus den Konzepten erzeugte 3D-Modelle (MIT-Lizenz).
+- **BiRefNet**: Freistellen der Konzepte vor dem Erzeugen des Modells (MIT-Lizenz).
+- **scikit-image**: Extraktion der Modelloberfläche (BSD-3-Lizenz).
+- **Google Gemini**: Konzeptzeichnungen.
+- **IGN**: Relief des Digitalen Geländemodells MDT25 (CC BY 4.0).
 
 ## Über dieses Repository
 
