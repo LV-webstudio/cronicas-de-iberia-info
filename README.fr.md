@@ -8,9 +8,7 @@ Par [Shania Webstudio](https://shaniawebstudio.com), Granada (Espagne).
 
 [English](README.md) · [Español](README.es.md) · **Français** · [Deutsch](README.de.md) · [Português](README.pt.md)
 
-![La crypte du sanctuaire, dans le prototype du jeu](assets/banner.jpg)
-
-*Capture réelle du moteur, art de prototype.*
+![Logo de Crónicas de Iberia](assets/logo.jpg)
 
 ## Concept
 
@@ -142,6 +140,8 @@ Sont aussi prévus :
 | Urke le forgeron, Bilos la potière et un guerrier de cendre. *Rendu (vue de modèle, avec l’ombrage du jeu) des modèles 3D.* | Faune ibérique. *Rendu (vue de modèle) des modèles 3D.* |
 | ![Trois villageoises ibères, de face (rendu des modèles 3D)](imagenes/12-personajes-aldeas-iberas-render.jpg) | ![Les six ères, avec le Gardien et la Gardienne (illustration conceptuelle)](imagenes/11-eras-concept-art.jpg) |
 | Trois villageoises ibères, de face. *Rendu (vue de modèle) des modèles 3D.* | Les six ères, avec le Gardien et la Gardienne. *Illustration conceptuelle.* |
+| ![La crypte du sanctuaire, dans le prototype du jeu](assets/banner.jpg) | |
+| La crypte du sanctuaire, dans le prototype du jeu. *Capture réelle du moteur, art de prototype.* | |
 
 Les captures réelles ont été faites sur un HP Omen (GTX 1050 Ti) en qualité haute ou ultra, sans retouche. Sur certaines prises, la caméra est fixe ; sur d’autres, c’est celle du joueur. Les maisons du village et certains animaux sont encore en art de prototype.
 
@@ -157,7 +157,7 @@ Les captures réelles ont été faites sur un HP Omen (GTX 1050 Ti) en qualité 
 - **IGN (Instituto Geográfico Nacional, Espagne)** : Obra derivada de MDT25-cob2 2015-2021 CC-BY 4.0 [scne.es](https://www.scne.es) (œuvre dérivée ; licence : https://creativecommons.org/licenses/by/4.0/).
 - **AEMET** (Agence nationale de météorologie d’Espagne) : normales climatologiques 1981-2010. Source : AEMET.
 
-L’illustration conceptuelle des ères a été réalisée avec des outils d’IA.
+L’illustration conceptuelle des ères et le logo ont été réalisés avec des outils d’IA.
 
 ## À propos de ce dépôt
 

@@ -8,9 +8,7 @@ Von [Shania Webstudio](https://shaniawebstudio.com), Granada (Spanien).
 
 [English](README.md) · [Español](README.es.md) · [Français](README.fr.md) · **Deutsch** · [Português](README.pt.md)
 
-![Die Krypta des Heiligtums aus dem Spielprototyp](assets/banner.jpg)
-
-*Echte Aufnahme aus der Engine, Prototyp-Grafik.*
+![Logo von Crónicas de Iberia](assets/logo.jpg)
 
 ## Konzept
 
@@ -142,6 +140,8 @@ Außerdem ist geplant:
 | Urke der Schmied, Bilos die Töpferin und ein Aschekrieger. *Render (Modellansicht, mit der Schattierung des Spiels) der 3D-Modelle.* | Iberische Tierwelt. *Render (Modellansicht) der 3D-Modelle.* |
 | ![Drei Bewohnerinnen der iberischen Dörfer, von vorn (Render der 3D-Modelle)](imagenes/12-personajes-aldeas-iberas-render.jpg) | ![Die sechs Ären, mit dem Wächter und der Wächterin (Konzeptzeichnung)](imagenes/11-eras-concept-art.jpg) |
 | Drei Bewohnerinnen der iberischen Dörfer, von vorn. *Render (Modellansicht) der 3D-Modelle.* | Die sechs Ären, mit dem Wächter und der Wächterin. *Konzeptzeichnung.* |
+| ![Die Krypta des Heiligtums aus dem Spielprototyp](assets/banner.jpg) | |
+| Die Krypta des Heiligtums aus dem Spielprototyp. *Echte Aufnahme aus der Engine, Prototyp-Grafik.* | |
 
 Die echten Screenshots wurden auf einem HP Omen (GTX 1050 Ti) in hoher oder Ultra-Qualität ohne Nachbearbeitung gemacht. Bei einigen Aufnahmen ist die Kamera fest, bei anderen ist es die Kamera des Spielers. Die Häuser des Dorfes und einige Tiere sind noch Prototyp-Grafik.
 
@@ -157,7 +157,7 @@ Die echten Screenshots wurden auf einem HP Omen (GTX 1050 Ti) in hoher oder Ultr
 - **IGN (Instituto Geográfico Nacional, Spanien)**: Obra derivada de MDT25-cob2 2015-2021 CC-BY 4.0 [scne.es](https://www.scne.es) (abgeleitetes Werk; Lizenz: https://creativecommons.org/licenses/by/4.0/).
 - **AEMET** (Staatliche Meteorologische Agentur Spaniens): klimatologische Normalwerte 1981-2010. Quelle: AEMET.
 
-Die Konzeptzeichnung der Ären wurde mit KI-Werkzeugen erstellt.
+Die Konzeptzeichnung der Ären und das Logo wurden mit KI-Werkzeugen erstellt.
 
 ## Über dieses Repository
 

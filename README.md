@@ -8,9 +8,7 @@ By [Shania Webstudio](https://shaniawebstudio.com), Granada (Spain).
 
 **English** · [Español](README.es.md) · [Français](README.fr.md) · [Deutsch](README.de.md) · [Português](README.pt.md)
 
-![The crypt of the sanctuary, from the game prototype](assets/banner.jpg)
-
-*Real in-engine capture, prototype art.*
+![Crónicas de Iberia logo](assets/logo.jpg)
 
 ## Concept
 
@@ -142,6 +140,8 @@ Also planned:
 | Urke the smith, Bilos the potter and an Ash warrior. *Render (model view, with the game's shading) of the 3D models.* | Iberian wildlife. *Render (model view) of the 3D models.* |
 | ![Three women from the Iberian villages, front view (render of the 3D models)](imagenes/12-personajes-aldeas-iberas-render.jpg) | ![The six eras, with the male and female Guardian (concept art)](imagenes/11-eras-concept-art.jpg) |
 | Three women from the Iberian villages, front view. *Render (model view) of the 3D models.* | The six eras, with the male and female Guardian. *Concept art.* |
+| ![The crypt of the sanctuary, from the game prototype](assets/banner.jpg) | |
+| The crypt of the sanctuary, from the game prototype. *Real in-engine capture, prototype art.* | |
 
 The real screenshots were taken on an HP Omen (GTX 1050 Ti) at high or ultra quality, without retouching. In some shots the camera is fixed and in others it is the player's. The village houses and some animals are still prototype art.
 
@@ -157,7 +157,7 @@ The real screenshots were taken on an HP Omen (GTX 1050 Ti) at high or ultra qua
 - **IGN (Spain's Instituto Geográfico Nacional)**: Obra derivada de MDT25-cob2 2015-2021 CC-BY 4.0 [scne.es](https://www.scne.es) (derived work; licence: https://creativecommons.org/licenses/by/4.0/).
 - **AEMET** (Spain's State Meteorological Agency): climatological normals 1981-2010. Source: AEMET.
 
-The concept art of the eras was made with AI tools.
+The concept art of the eras and the logo were made with AI tools.
 
 ## About this repository
 

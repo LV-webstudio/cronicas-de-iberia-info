@@ -8,9 +8,7 @@ De [Shania Webstudio](https://shaniawebstudio.com), Granada (España).
 
 [English](README.md) · **Español** · [Français](README.fr.md) · [Deutsch](README.de.md) · [Português](README.pt.md)
 
-![La cripta del santuario, en el prototipo del juego](assets/banner.jpg)
-
-*Captura real del motor, arte de prototipo.*
+![Logo de Crónicas de Iberia](assets/logo.jpg)
 
 ## Concepto
 
@@ -142,6 +140,8 @@ También está previsto:
 | Urke el herrero, Bilos la alfarera y un guerrero de ceniza. *Render (vista de modelo, con el sombreado del juego) de los modelos 3D.* | Fauna ibérica. *Render (vista de modelo) de los modelos 3D.* |
 | ![Tres vecinas de las aldeas íberas, de frente (render de los modelos 3D)](imagenes/12-personajes-aldeas-iberas-render.jpg) | ![Las seis eras, con el Guardián y la Guardiana (concept art)](imagenes/11-eras-concept-art.jpg) |
 | Tres vecinas de las aldeas íberas, de frente. *Render (vista de modelo) de los modelos 3D.* | Las seis eras, con el Guardián y la Guardiana. *Concept art.* |
+| ![La cripta del santuario, en el prototipo del juego](assets/banner.jpg) | |
+| La cripta del santuario, en el prototipo del juego. *Captura real del motor, arte de prototipo.* | |
 
 Las capturas reales están hechas en un HP Omen (GTX 1050 Ti) en calidad alta o ultra, sin retoques. En unas tomas la cámara está fija y en otras es la del jugador. Las casas del poblado y algunos animales todavía son arte de prototipo.
 
@@ -157,7 +157,7 @@ Las capturas reales están hechas en un HP Omen (GTX 1050 Ti) en calidad alta o 
 - **IGN (Instituto Geográfico Nacional de España)**: Obra derivada de MDT25-cob2 2015-2021 CC-BY 4.0 [scne.es](https://www.scne.es) (licencia: https://creativecommons.org/licenses/by/4.0/).
 - **AEMET** (Agencia Estatal de Meteorología): valores climatológicos normales 1981-2010. Fuente: AEMET.
 
-El concept art de las eras está hecho con herramientas de IA.
+El concept art de las eras y el logo están hechos con herramientas de IA.
 
 ## Sobre este repositorio
 
