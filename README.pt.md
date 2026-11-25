@@ -2,7 +2,7 @@
 
 > Uma aventura de sobrevivência em mundo aberto na terceira pessoa, ambientada na Ibéria pré-romana, por volta de 225 a. C. Antes da demo, em desenvolvimento.
 
-> **Aviso: jogo em desenvolvimento.** Crónicas de Iberia ainda não está terminado. As imagens desta página são de trabalho e podem mudar. *Atualizado a 25-11-2026.*
+> **Aviso: jogo em desenvolvimento.** Crónicas de Iberia ainda não está terminado e não está à venda. O que aqui se descreve são objetivos de design que podem mudar ou ficar de fora. As imagens são de trabalho e podem mudar; as feitas com IA levam uma marca e não mostram o aspeto final do jogo. *Atualizado a 25-11-2026.*
 
 Por [Shania Webstudio](https://shaniawebstudio.com), Granada (Espanha).
 
@@ -34,7 +34,7 @@ A história conta-se por eras. Construímos a primeira inteira antes de começar
 | 5 · Castela do Cid | Século XI | Em design |
 | 6 · Granada | 1492 | Em design |
 
-![As seis eras, com o Guardião e a Guardiã](imagenes/11-eras-concept-art.jpg)
+![As seis eras, com o Guardião e a Guardiã (arte concetual gerada com IA)](imagenes/11-eras-concept-art.jpg)
 
 *Concept art gerado por IA (Google Gemini) e revisto pelo estúdio: não é uma captura do jogo.*
 
@@ -50,7 +50,7 @@ Na versão de desenvolvimento, os pés apoiam-se no terreno e os braços mexem-s
 
 As aldeias iberas estão a receber personagens novas, modeladas em 3D, cada uma com a sua roupa, o seu penteado e os seus adornos. Ainda estão em testes.
 
-![Três habitantes das aldeias iberas, de frente](imagenes/12-personajes-aldeas-iberas-render.jpg)
+![Três habitantes das aldeias iberas, de frente (render de modelos 3D gerados com IA)](imagenes/12-personajes-aldeas-iberas-render.jpg)
 
 *Render (vista de modelo, sem animação) de modelos 3D gerados com IA a partir de conceitos feitos com o Google Gemini.*
 
@@ -58,7 +58,7 @@ As aldeias iberas estão a receber personagens novas, modeladas em 3D, cada uma 
 
 - **Escala real:** no jogo, 1 unidade é 1 metro. Um teste automático compara a altura de pessoas e animais, árvores e casas com medidas reais, e admite uma margem de ±15 %.
 - **Região 1 · Edetânia e montanha do norte:** uma região de 2 × 2 km com terreno, vegetação, um rio com corrente e pontes. Tem um oppidum ibero tomado como modelo de Edeta (Tossal de Sant Miquel, Llíria), com NPC que seguem rotinas diárias. Tem também a gruta-santuário e a sua cripta, e duas masmorras visitáveis.
-- **Regiões 2 e 3 · Celtibéria e Meseta, e Costa castreja:** chega-se a elas por caminhos a partir da região 1. Estão na versão de desenvolvimento, em testes e com arte simples. Os caminhos e estas regiões usam o relevo real do Modelo Digital do Terreno MDT25 do IGN (CC BY 4.0).
+- **Regiões 2 e 3 · Celtibéria e Meseta, e Costa castreja:** chega-se a elas por caminhos a partir da região 1. Estão na versão de desenvolvimento, em testes e com arte simples. Os caminhos e estas regiões têm um relevo desenhado a partir das medidas (declives e rugosidade) do MDT25 do IGN de Espanha.
 - **Rochas:** a paisagem está a receber rochas e afloramentos de calcário modelados com IA.
 
 ## Sobrevivência, recoleção, clima e estações
@@ -77,9 +77,9 @@ As aldeias iberas estão a receber personagens novas, modeladas em 3D, cada uma 
 - Fauna menor, peixes e insetos: rãs, lagartixas, cágados, sapos, trutas, borboletas, abelhas, libélulas e pirilampos.
 - Os modelos de fauna de alta qualidade vão entrando no jogo aos poucos. Alguns animais ainda têm o corpo provisório.
 
-![Cabra-montês, lebre-ibérica e texugo](imagenes/10-fauna-render.jpg)
+![Cabra-montês, lebre-ibérica e texugo (render de modelos 3D gerados com IA)](imagenes/10-fauna-render.jpg)
 
-*Render (vista de modelo): os modelos do jogo sobre um chão liso, sem animação.*
+*Render (vista de modelo) de modelos 3D gerados com IA: os modelos do jogo sobre um chão liso, sem animação.*
 
 ## Combate
 
@@ -109,11 +109,11 @@ As aldeias iberas estão a receber personagens novas, modeladas em 3D, cada uma 
 
 **Em desenvolvimento (antes da demo).** Ainda não há demo pública, trailer nem página de loja. O que existe é um protótipo com arte de protótipo. As capturas abaixo são do motor tal como está.
 
-Roteiro, por esta ordem e **sem datas prometidas**:
+Roteiro previsto, por esta ordem, **sem datas nem compromisso**: pode mudar.
 
 1. Um corte vertical jogável de 20 a 30 minutos e uma demo pública.
 2. Acesso antecipado no PC com a era 1 completa.
-3. Versão 1.0 e consolas.
+3. Versão 1.0 e, se possível, consolas.
 4. As eras seguintes.
 
 Também está previsto:
@@ -138,9 +138,9 @@ Também está previsto:
 | A chegar à ponte, com a interface do jogo. *Captura real do jogo.* | Combate contra um guerreiro de cinza, à mão. *Captura real do jogo (arte de protótipo).* |
 | ![Menu principal](imagenes/07-menu-principal.jpg) | ![Opções de acessibilidade](imagenes/08-accesibilidad.jpg) |
 | Menu principal. *Interface real, com uma partida de teste.* | Opções de acessibilidade: leitura fácil, reduzir flashes, menos inimigos em simultâneo e janela de desvio mais longa. *Interface real.* |
-| ![Urke, Bilos e um guerreiro de cinza](imagenes/09-personajes-render.jpg) | ![Cabra-montês, lebre-ibérica e texugo](imagenes/10-fauna-render.jpg) |
-| Urke, o ferreiro, Bilos, a oleira, e um guerreiro de cinza. *Render (vista de modelo, com o sombreado do jogo).* | Fauna ibérica. *Render (vista de modelo).* |
-| ![Três habitantes das aldeias iberas, de frente](imagenes/12-personajes-aldeas-iberas-render.jpg) | ![As seis eras, com o Guardião e a Guardiã](imagenes/11-eras-concept-art.jpg) |
+| ![Urke, Bilos e um guerreiro de cinza (render de modelos 3D gerados com IA)](imagenes/09-personajes-render.jpg) | ![Cabra-montês, lebre-ibérica e texugo (render de modelos 3D gerados com IA)](imagenes/10-fauna-render.jpg) |
+| Urke, o ferreiro, Bilos, a oleira, e um guerreiro de cinza. *Render (vista de modelo, com o sombreado do jogo) de modelos 3D gerados com IA.* | Fauna ibérica. *Render (vista de modelo) de modelos 3D gerados com IA.* |
+| ![Três habitantes das aldeias iberas, de frente (render de modelos 3D gerados com IA)](imagenes/12-personajes-aldeas-iberas-render.jpg) | ![As seis eras, com o Guardião e a Guardiã (arte concetual gerada com IA)](imagenes/11-eras-concept-art.jpg) |
 | Três habitantes das aldeias iberas, de frente. *Render (vista de modelo) de modelos 3D gerados com IA.* | As seis eras, com o Guardião e a Guardiã. *Arte concetual gerada com IA (Google Gemini).* |
 
 As capturas reais foram feitas num HP Omen (GTX 1050 Ti) em qualidade alta ou ultra, sem retoques. Em algumas tomadas a câmara está fixa e noutras é a do jogador. As casas da povoação e alguns animais ainda são arte de protótipo.
@@ -153,7 +153,7 @@ Dizemo-lo como é. Usa-se IA para:
 
 - arte concetual (Google Gemini);
 - malhas 3D de base, geradas a partir de conceitos aprovados;
-- vozes e música (Google Lyria);
+- música (Google Lyria) e vozes (Chirp 3 HD, do Google Cloud Text-to-Speech);
 - apoio em código, pesquisa e design.
 
 Cada peça feita com IA é revista e finalizada por uma pessoa antes de entrar no jogo. As imagens feitas com IA levam uma marca visível e os créditos do jogo, um aviso de IA.
@@ -165,8 +165,10 @@ Cada peça feita com IA é revista e finalizada por uma pessoa antes de entrar n
 - **TripoSG**, da VAST-AI: malhas 3D geradas a partir dos conceitos (licença MIT).
 - **BiRefNet**: recorte do fundo dos conceitos antes de gerar a malha (licença MIT).
 - **scikit-image**: extração da superfície das malhas (licença BSD-3).
-- **Google Gemini**: arte concetual.
-- **IGN**: relevo do Modelo Digital do Terreno MDT25 (CC BY 4.0).
+- **Google Gemini**, da Google: arte concetual, usado segundo os termos de serviço da Google.
+- **Google Lyria** e **Chirp 3 HD** (Google Cloud Text-to-Speech), da Google: música e vozes geradas com IA, usadas segundo os termos do Google Cloud.
+- **IGN (Instituto Geográfico Nacional de Espanha)**: Obra derivada de MDT25-cob2 2015-2021 CC-BY 4.0 [scne.es](https://www.scne.es) (obra derivada; licença: https://creativecommons.org/licenses/by/4.0/).
+- **AEMET** (Agência Estatal de Meteorologia de Espanha): valores climatológicos normais 1981-2010. Fonte: AEMET.
 
 ## Sobre este repositório
 
@@ -176,6 +178,7 @@ Este repositório contém apenas informação: o código é privado.
 
 - E-mail: hola@shaniawebstudio.com
 - Site: https://shaniawebstudio.com
+- Aviso legal (em espanhol): https://shaniawebstudio.com/aviso-legal
 
 ---
 *Um produto da Shania Webstudio.* · Copyright (c) 2026 Shania Webstudio.

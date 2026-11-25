@@ -2,7 +2,7 @@
 
 > A third-person open-world survival adventure set in pre-Roman Iberia, around 225 BC. Pre-demo, in development.
 
-> **Notice: game in development.** Crónicas de Iberia is not finished yet. The images on this page are work in progress and may change. *Updated on 25 November 2026.*
+> **Notice: game in development.** Crónicas de Iberia is not finished yet and is not on sale. What is described here are design goals that may change or be left out. The images are work in progress and may change; AI-made images carry a mark and do not show the final look of the game. *Updated on 25 November 2026.*
 
 By [Shania Webstudio](https://shaniawebstudio.com), Granada (Spain).
 
@@ -34,7 +34,7 @@ The story is told in eras. We build the first one in full before starting the ne
 | 5 · Castile of the Cid | 11th century | In design |
 | 6 · Granada | 1492 | In design |
 
-![The six eras, with the male and female Guardian](imagenes/11-eras-concept-art.jpg)
+![The six eras, with the male and female Guardian (AI-generated concept art)](imagenes/11-eras-concept-art.jpg)
 
 *AI-generated concept art (Google Gemini), reviewed by the studio: not a game screenshot.*
 
@@ -50,7 +50,7 @@ In the development version, the feet rest on the terrain and the arms move when 
 
 The Iberian villages are receiving new characters, modelled in 3D, each with their own clothes, hairstyle and ornaments. They are still being tested.
 
-![Three women from the Iberian villages, front view](imagenes/12-personajes-aldeas-iberas-render.jpg)
+![Three women from the Iberian villages, front view (render of AI-generated 3D models)](imagenes/12-personajes-aldeas-iberas-render.jpg)
 
 *Render (model view, without animation) of AI-generated 3D models based on concepts made with Google Gemini.*
 
@@ -58,7 +58,7 @@ The Iberian villages are receiving new characters, modelled in 3D, each with the
 
 - **Real scale:** in the game, 1 unit is 1 metre. An automated test compares the height of people and animals, trees and houses with real measurements, and allows a margin of ±15%.
 - **Region 1 · Edetania and the northern mountains:** a 2 × 2 km region with terrain, vegetation, a river with a current and bridges. It has an Iberian oppidum modelled on Edeta (Tossal de Sant Miquel, Llíria), with NPCs that follow daily routines. It also has the cave sanctuary and its crypt, and two visitable dungeons.
-- **Regions 2 and 3 · Celtiberia and the Meseta, and the Castro Coast (hillfort coast):** you reach them by paths from region 1. They are in the development version, in testing and with simple art. The paths and these regions use the real relief of the MDT25 Digital Terrain Model of the IGN (CC BY 4.0).
+- **Regions 2 and 3 · Celtiberia and the Meseta, and the Castro Coast (hillfort coast):** you reach them by paths from region 1. They are in the development version, in testing and with simple art. The paths and these regions have a designed relief based on measurements (slopes and roughness) of the MDT25 of Spain's IGN.
 - **Rocks:** the landscape is receiving limestone rocks and outcrops modelled with AI.
 
 ## Survival, gathering, weather and seasons
@@ -77,9 +77,9 @@ The Iberian villages are receiving new characters, modelled in 3D, each with the
 - Small fauna, fish and insects: frogs, lizards, terrapins, toads, trout, butterflies, bees, dragonflies and fireflies.
 - High-quality wildlife models are entering the game little by little. Some animals still have a provisional body.
 
-![Ibex, Iberian hare and badger](imagenes/10-fauna-render.jpg)
+![Ibex, Iberian hare and badger (render of AI-generated 3D models)](imagenes/10-fauna-render.jpg)
 
-*Render (model view): the game's models on a plain floor, without animation.*
+*Render (model view) of AI-generated 3D models: the game's models on a plain floor, without animation.*
 
 ## Combat
 
@@ -109,11 +109,11 @@ The Iberian villages are receiving new characters, modelled in 3D, each with the
 
 **In development (pre-demo).** There is no public demo, trailer or store page yet. What exists is a prototype with prototype art. The screenshots below are from the engine as it is.
 
-Roadmap, in this order and **with no promised dates**:
+Planned roadmap, in this order, **with no dates and no commitment**: it may change.
 
 1. A playable 20-30 minute vertical slice and a public demo.
 2. Early access on PC with the whole of era 1.
-3. Version 1.0 and consoles.
+3. Version 1.0 and, if possible, consoles.
 4. The following eras.
 
 Also planned:
@@ -138,9 +138,9 @@ Also planned:
 | Arriving at the bridge, with the game interface. *Real in-game screenshot.* | Combat against an Ash warrior, with fists. *Real in-game screenshot (prototype art).* |
 | ![Main menu](imagenes/07-menu-principal.jpg) | ![Accessibility options](imagenes/08-accesibilidad.jpg) |
 | Main menu. *Real interface, with a test save.* | Accessibility options: easy-read text, reduced flashes, fewer simultaneous enemies and a longer parry window. *Real interface.* |
-| ![Urke, Bilos and an Ash warrior](imagenes/09-personajes-render.jpg) | ![Ibex, Iberian hare and badger](imagenes/10-fauna-render.jpg) |
-| Urke the smith, Bilos the potter and an Ash warrior. *Render (model view, with the game's shading).* | Iberian wildlife. *Render (model view).* |
-| ![Three women from the Iberian villages, front view](imagenes/12-personajes-aldeas-iberas-render.jpg) | ![The six eras, with the male and female Guardian](imagenes/11-eras-concept-art.jpg) |
+| ![Urke, Bilos and an Ash warrior (render of AI-generated 3D models)](imagenes/09-personajes-render.jpg) | ![Ibex, Iberian hare and badger (render of AI-generated 3D models)](imagenes/10-fauna-render.jpg) |
+| Urke the smith, Bilos the potter and an Ash warrior. *Render (model view, with the game's shading) of AI-generated 3D models.* | Iberian wildlife. *Render (model view) of AI-generated 3D models.* |
+| ![Three women from the Iberian villages, front view (render of AI-generated 3D models)](imagenes/12-personajes-aldeas-iberas-render.jpg) | ![The six eras, with the male and female Guardian (AI-generated concept art)](imagenes/11-eras-concept-art.jpg) |
 | Three women from the Iberian villages, front view. *Render (model view) of AI-generated 3D models.* | The six eras, with the male and female Guardian. *AI-generated concept art (Google Gemini).* |
 
 The real screenshots were taken on an HP Omen (GTX 1050 Ti) at high or ultra quality, without retouching. In some shots the camera is fixed and in others it is the player's. The village houses and some animals are still prototype art.
@@ -153,7 +153,7 @@ We say it as it is. AI is used for:
 
 - concept art (Google Gemini);
 - base 3D meshes, generated from approved concepts;
-- voices and music (Google Lyria);
+- music (Google Lyria) and voices (Chirp 3 HD, from Google Cloud Text-to-Speech);
 - support with code, research and design.
 
 Every AI-made piece is reviewed and finished by a human before it goes into the game. AI-made images carry a visible mark and the game credits carry an AI notice.
@@ -165,8 +165,10 @@ Every AI-made piece is reviewed and finished by a human before it goes into the 
 - **TripoSG**, by VAST-AI: 3D meshes generated from the concepts (MIT licence).
 - **BiRefNet**: removal of the concept background before generating the mesh (MIT licence).
 - **scikit-image**: extraction of the mesh surface (BSD-3 licence).
-- **Google Gemini**: concept art.
-- **IGN**: relief from the MDT25 Digital Terrain Model (CC BY 4.0).
+- **Google Gemini**, by Google: concept art, used under Google's terms of service.
+- **Google Lyria** and **Chirp 3 HD** (Google Cloud Text-to-Speech), by Google: AI-generated music and voices, used under the Google Cloud terms.
+- **IGN (Spain's Instituto Geográfico Nacional)**: Obra derivada de MDT25-cob2 2015-2021 CC-BY 4.0 [scne.es](https://www.scne.es) (derived work; licence: https://creativecommons.org/licenses/by/4.0/).
+- **AEMET** (Spain's State Meteorological Agency): climatological normals 1981-2010. Source: AEMET.
 
 ## About this repository
 
@@ -176,6 +178,7 @@ This repository contains information only: the source code is private.
 
 - Email: hola@shaniawebstudio.com
 - Website: https://shaniawebstudio.com
+- Legal notice (in Spanish): https://shaniawebstudio.com/aviso-legal
 
 ---
 *A product by Shania Webstudio.* · Copyright (c) 2026 Shania Webstudio.

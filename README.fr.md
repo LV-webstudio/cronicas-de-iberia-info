@@ -2,7 +2,7 @@
 
 > Une aventure de survie en monde ouvert à la troisième personne, dans l’Ibérie préromaine, vers 225 av. J.-C. Avant la démo, en développement.
 
-> **Avertissement : jeu en développement.** Crónicas de Iberia n’est pas encore terminé. Les images de cette page sont des images de travail et peuvent changer. *Mis à jour le 25/11/2026.*
+> **Avertissement : jeu en développement.** Crónicas de Iberia n’est pas encore terminé et n’est pas en vente. Ce qui est décrit ici, ce sont des objectifs de conception qui peuvent changer ou être abandonnés. Les images sont des images de travail et peuvent changer ; celles faites avec l’IA portent une mention et ne montrent pas l’aspect final du jeu. *Mis à jour le 25/11/2026.*
 
 Par [Shania Webstudio](https://shaniawebstudio.com), Granada (Espagne).
 
@@ -34,7 +34,7 @@ L’histoire se raconte par ères. Nous construisons la première en entier avan
 | 5 · Castille du Cid | XIe siècle | En conception |
 | 6 · Grenade | 1492 | En conception |
 
-![Les six ères, avec le Gardien et la Gardienne](imagenes/11-eras-concept-art.jpg)
+![Les six ères, avec le Gardien et la Gardienne (illustration conceptuelle générée par IA)](imagenes/11-eras-concept-art.jpg)
 
 *Concept art généré par IA (Google Gemini) et relu par le studio : ce n’est pas une capture du jeu.*
 
@@ -50,7 +50,7 @@ Dans la version de développement, les pieds s’appuient sur le terrain et les 
 
 Les villages ibères accueillent de nouveaux personnages, modélisés en 3D, chacun avec ses vêtements, sa coiffure et ses parures. Ils sont encore en test.
 
-![Trois villageoises ibères, de face](imagenes/12-personajes-aldeas-iberas-render.jpg)
+![Trois villageoises ibères, de face (rendu de modèles 3D générés par IA)](imagenes/12-personajes-aldeas-iberas-render.jpg)
 
 *Rendu (vue de modèle, sans animation) de modèles 3D générés par IA à partir de concepts réalisés avec Google Gemini.*
 
@@ -58,7 +58,7 @@ Les villages ibères accueillent de nouveaux personnages, modélisés en 3D, cha
 
 - **Échelle réelle :** dans le jeu, 1 unité vaut 1 mètre. Un test automatique compare la hauteur des personnes et des animaux, des arbres et des maisons avec des mesures réelles, et admet une marge de ±15 %.
 - **Région 1 · Édétanie et montagne du nord :** une région de 2 × 2 km avec relief, végétation, une rivière à courant et des ponts. Elle comprend un oppidum ibère pris pour modèle d’Edeta (Tossal de Sant Miquel, Llíria), avec des PNJ qui suivent des routines quotidiennes. Elle comprend aussi la grotte-sanctuaire et sa crypte, et deux donjons visitables.
-- **Régions 2 et 3 · Celtibérie et Meseta, et côte des castros :** on y accède par des chemins depuis la région 1. Elles sont dans la version de développement, en test et avec un art simple. Les chemins et ces régions utilisent le relief réel du modèle numérique de terrain MDT25 de l’IGN (CC BY 4.0).
+- **Régions 2 et 3 · Celtibérie et Meseta, et côte des castros :** on y accède par des chemins depuis la région 1. Elles sont dans la version de développement, en test et avec un art simple. Les chemins et ces régions ont un relief conçu à partir des mesures (pentes et rugosité) du MDT25 de l’IGN espagnol.
 - **Roches :** le paysage reçoit des rochers et des affleurements calcaires modélisés avec l’IA.
 
 ## Survie, cueillette, climat et saisons
@@ -77,9 +77,9 @@ Les villages ibères accueillent de nouveaux personnages, modélisés en 3D, cha
 - Petite faune, poissons et insectes : grenouilles, lézards, tortues d’eau, crapauds, truites, papillons, abeilles, libellules et lucioles.
 - Les modèles de faune de haute qualité entrent peu à peu dans le jeu. Certains animaux ont encore un corps provisoire.
 
-![Bouquetin, lièvre ibérique et blaireau](imagenes/10-fauna-render.jpg)
+![Bouquetin, lièvre ibérique et blaireau (rendu de modèles 3D générés par IA)](imagenes/10-fauna-render.jpg)
 
-*Rendu (vue de modèle) : les modèles du jeu sur un sol lisse, sans animation.*
+*Rendu (vue de modèle) de modèles 3D générés par IA : les modèles du jeu sur un sol lisse, sans animation.*
 
 ## Combat
 
@@ -109,11 +109,11 @@ Les villages ibères accueillent de nouveaux personnages, modélisés en 3D, cha
 
 **En développement (avant la démo).** Il n’y a pas encore de démo publique, de bande-annonce ni de page de boutique. Ce qui existe est un prototype avec un art de prototype. Les captures ci-dessous viennent du moteur, telles quelles.
 
-Feuille de route, dans cet ordre et **sans dates promises** :
+Feuille de route prévue, dans cet ordre, **sans dates ni engagement** : elle peut changer.
 
 1. Une tranche verticale jouable de 20 à 30 minutes et une démo publique.
 2. Accès anticipé sur PC avec l’ère 1 complète.
-3. Version 1.0 et consoles.
+3. Version 1.0 et, si possible, consoles.
 4. Les ères suivantes.
 
 Sont aussi prévus :
@@ -138,9 +138,9 @@ Sont aussi prévus :
 | Arrivée au pont, avec l’interface du jeu. *Capture réelle du jeu.* | Combat contre un guerrier de cendre, à mains nues. *Capture réelle du jeu (art de prototype).* |
 | ![Menu principal](imagenes/07-menu-principal.jpg) | ![Options d’accessibilité](imagenes/08-accesibilidad.jpg) |
 | Menu principal. *Interface réelle, avec une partie de test.* | Options d’accessibilité : lecture facile, réduction des flashs, moins d’ennemis à la fois et fenêtre de déviation plus longue. *Interface réelle.* |
-| ![Urke, Bilos et un guerrier de cendre](imagenes/09-personajes-render.jpg) | ![Bouquetin, lièvre ibérique et blaireau](imagenes/10-fauna-render.jpg) |
-| Urke le forgeron, Bilos la potière et un guerrier de cendre. *Rendu (vue de modèle, avec l’ombrage du jeu).* | Faune ibérique. *Rendu (vue de modèle).* |
-| ![Trois villageoises ibères, de face](imagenes/12-personajes-aldeas-iberas-render.jpg) | ![Les six ères, avec le Gardien et la Gardienne](imagenes/11-eras-concept-art.jpg) |
+| ![Urke, Bilos et un guerrier de cendre (rendu de modèles 3D générés par IA)](imagenes/09-personajes-render.jpg) | ![Bouquetin, lièvre ibérique et blaireau (rendu de modèles 3D générés par IA)](imagenes/10-fauna-render.jpg) |
+| Urke le forgeron, Bilos la potière et un guerrier de cendre. *Rendu (vue de modèle, avec l’ombrage du jeu) de modèles 3D générés par IA.* | Faune ibérique. *Rendu (vue de modèle) de modèles 3D générés par IA.* |
+| ![Trois villageoises ibères, de face (rendu de modèles 3D générés par IA)](imagenes/12-personajes-aldeas-iberas-render.jpg) | ![Les six ères, avec le Gardien et la Gardienne (illustration conceptuelle générée par IA)](imagenes/11-eras-concept-art.jpg) |
 | Trois villageoises ibères, de face. *Rendu (vue de modèle) de modèles 3D générés par IA.* | Les six ères, avec le Gardien et la Gardienne. *Illustration conceptuelle générée par IA (Google Gemini).* |
 
 Les captures réelles ont été faites sur un HP Omen (GTX 1050 Ti) en qualité haute ou ultra, sans retouche. Sur certaines prises, la caméra est fixe ; sur d’autres, c’est celle du joueur. Les maisons du village et certains animaux sont encore en art de prototype.
@@ -153,7 +153,7 @@ Nous le disons tel quel. L’IA sert à :
 
 - les illustrations conceptuelles (Google Gemini) ;
 - les maillages 3D de base, générés à partir de concepts validés ;
-- les voix et la musique (Google Lyria) ;
+- la musique (Google Lyria) et les voix (Chirp 3 HD, de Google Cloud Text-to-Speech) ;
 - l’aide au code, à la recherche et à la conception.
 
 Chaque élément créé avec l’IA est relu et finalisé par un humain avant d’entrer dans le jeu. Les images faites avec l’IA portent une mention visible et les crédits du jeu un avis IA.
@@ -165,8 +165,10 @@ Chaque élément créé avec l’IA est relu et finalisé par un humain avant d�
 - **TripoSG**, de VAST-AI : maillages 3D générés à partir des concepts (licence MIT).
 - **BiRefNet** : détourage du fond des concepts avant de générer le maillage (licence MIT).
 - **scikit-image** : extraction de la surface des maillages (licence BSD-3).
-- **Google Gemini** : illustrations conceptuelles.
-- **IGN** : relief du modèle numérique de terrain MDT25 (CC BY 4.0).
+- **Google Gemini**, de Google : illustrations conceptuelles, utilisé selon les conditions d’utilisation de Google.
+- **Google Lyria** et **Chirp 3 HD** (Google Cloud Text-to-Speech), de Google : musique et voix générées par IA, utilisées selon les conditions de Google Cloud.
+- **IGN (Instituto Geográfico Nacional, Espagne)** : Obra derivada de MDT25-cob2 2015-2021 CC-BY 4.0 [scne.es](https://www.scne.es) (œuvre dérivée ; licence : https://creativecommons.org/licenses/by/4.0/).
+- **AEMET** (Agence nationale de météorologie d’Espagne) : normales climatologiques 1981-2010. Source : AEMET.
 
 ## À propos de ce dépôt
 
@@ -176,6 +178,7 @@ Ce dépôt ne contient que des informations : le code source est privé.
 
 - E-mail: hola@shaniawebstudio.com
 - Site web: https://shaniawebstudio.com
+- Mentions légales (en espagnol) : https://shaniawebstudio.com/aviso-legal
 
 ---
 *Un produit de Shania Webstudio.* · Copyright (c) 2026 Shania Webstudio.
